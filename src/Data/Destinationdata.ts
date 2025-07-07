@@ -67,7 +67,7 @@ priceperindividual: '$400',
 
 {
 img: Honeymoon5,
-title: 'Honeymoon5',
+title: 'Honeymoon',
 description: 'Experience the stunning beaches and rich culture of Coastal Kenya. From the vibrant markets to the serene shores, this destination offers a perfect blend of relaxation and adventure.',
 pricepergroup: '$400',
 priceperindividual: '$400', 
@@ -75,7 +75,7 @@ priceperindividual: '$400',
 
 {
 img: Family1,
-title: 'Family1',
+title: 'Family',
 description: 'Experience the stunning beaches and rich culture of Coastal Kenya. From the vibrant markets to the serene shores, this destination offers a perfect blend of relaxation and adventure.',
 pricepergroup: '$400',
 priceperindividual: '$400', 
@@ -83,7 +83,7 @@ priceperindividual: '$400',
 
 {
 img: Wildlife4,
-title: 'Wildlife4',
+title: 'Wildlife',
 description: 'Experience the stunning beaches and rich culture of Coastal Kenya. From the vibrant markets to the serene shores, this destination offers a perfect blend of relaxation and adventure.',
 pricepergroup: '$400',
 priceperindividual: '$400', 
@@ -91,7 +91,7 @@ priceperindividual: '$400',
 
 {
 img: Wildlife5,
-title: 'Wildlife5',
+title: 'Wildlife',
 description: 'Experience the stunning beaches and rich culture of Coastal Kenya. From the vibrant markets to the serene shores, this destination offers a perfect blend of relaxation and adventure.',
 pricepergroup: '$400',
 priceperindividual: '$400', 
@@ -99,7 +99,7 @@ priceperindividual: '$400',
 
 {
 img: Eco2,
-title: 'Eco2',
+title: 'Eco',
 description: 'Experience the stunning beaches and rich culture of Coastal Kenya. From the vibrant markets to the serene shores, this destination offers a perfect blend of relaxation and adventure.',
 pricepergroup: '$400',
 priceperindividual: '$400', 
@@ -107,7 +107,7 @@ priceperindividual: '$400',
 
 {
 img: Luxury5,
-title: 'Luxury5',
+title: 'Luxury',
 description: 'Experience the stunning beaches and rich culture of Coastal Kenya. From the vibrant markets to the serene shores, this destination offers a perfect blend of relaxation and adventure.',
 pricepergroup: '$400',
 priceperindividual: '$400', 
@@ -115,7 +115,7 @@ priceperindividual: '$400',
 
 {
 img: Beach1,
-title: 'Beach1',
+title: 'Beach',
 description: 'Experience the stunning beaches and rich culture of Coastal Kenya. From the vibrant markets to the serene shores, this destination offers a perfect blend of relaxation and adventure.',
 pricepergroup: '$400',
 priceperindividual: '$400', 
@@ -123,7 +123,7 @@ priceperindividual: '$400',
 
 {
 img: Adventure5,
-title: 'Adventure5',
+title: 'Adventure',
 description: 'Experience the stunning beaches and rich culture of Coastal Kenya. From the vibrant markets to the serene shores, this destination offers a perfect blend of relaxation and adventure.',
 pricepergroup: '$400',
 priceperindividual: '$400',
@@ -131,7 +131,7 @@ priceperindividual: '$400',
 
 {
 img: Culture1,
-title: 'Culture1',
+title: 'Culture',
 description: 'Experience the stunning beaches and rich culture of Coastal Kenya. From the vibrant markets to the serene shores, this destination offers a perfect blend of relaxation and adventure.',
 pricepergroup: '$400',
 priceperindividual: '$400', 
@@ -139,7 +139,7 @@ priceperindividual: '$400',
 
 {
 img: Wildlife1,
-title: 'Wildlife1',
+title: 'Wildlife',
 description: 'Experience the stunning beaches and rich culture of Coastal Kenya. From the vibrant markets to the serene shores, this destination offers a perfect blend of relaxation and adventure.',
 pricepergroup: '$400',
 priceperindividual: '$400',
@@ -147,7 +147,7 @@ priceperindividual: '$400',
 
 {
 img: Culture5,
-title: 'Culture5',
+title: 'Historic Site',
 description: 'Experience the stunning beaches and rich culture of Coastal Kenya. From the vibrant markets to the serene shores, this destination offers a perfect blend of relaxation and adventure.',
 pricepergroup: '$400',
 priceperindividual: '$400', 

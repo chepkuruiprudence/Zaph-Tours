@@ -40,7 +40,7 @@ const TripTypes = () => {
             stopOnHover
           >
             {trip.images.map((imageUrl, index) => (
-              <div key={index} style = {{border: "5px solid green",height: "200px", objectFit: "cover" }}>
+              <div key={index} style = {{height: "200px", objectFit: "cover" }}>
                 <img
                   src={imageUrl}
                   alt={`${trip.title} ${index + 1}`}
