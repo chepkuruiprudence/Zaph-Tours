@@ -7,7 +7,7 @@ const DestinationList = () => {
     <Box sx={{ padding: 2, backgroundColor: '#f4f4f4', marginTop: 4 }}>
       <Grid container spacing={4} sx ={{ justifyContent: 'center' }}>
         {ItemData.map((item, index) => (
-          <Grid  key={index}>
+          <Grid  key={index} size={{xs: 12, sm:6, md: 4}}>
             <DestinationCard
               img={item.img}
               title={item.title}

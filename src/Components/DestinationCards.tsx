@@ -25,10 +25,10 @@ const DestinationCard: React.FC<DestinationCardProps> = ({
   priceperindividual,
 }) => {
   return (
-    <Card sx={{ width: 300, margin: 2, borderRadius: "10px", boxShadow: 3, transition: "transform 0.3s ease-in-out", "&:hover": { transform: "scale(1.05)" } }}>
+    <Card sx={{margin: 2, borderRadius: "10px", boxShadow: 3, transition: "transform 0.3s ease-in-out", "&:hover": { transform: "scale(1.05)" }, height:"35rem" }}>
       <CardMedia
         component="img"
-        height="180"
+        height={"50%"}
         image={img}
         alt={title}
         sx={{ objectFit: "cover" }}

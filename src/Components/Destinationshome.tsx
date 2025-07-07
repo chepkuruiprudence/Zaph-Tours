@@ -13,10 +13,10 @@ const Destinationshome = () => {
         flexDirection: 'row',
         alignItems: 'center',
         borderRadius: '10px',
-        padding: 2
+        padding: 2,
       }}>
         {ItemData.map((item, index) => (
-          <Grid key={index} size={{xs: 12, sm: 6  , md: 4}}>
+          <Grid key={index} size={{xs: 12, sm: 6, md: 4  }}>
             <DestinationCard
               img={item.img}
               title={item.title}
