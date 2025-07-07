@@ -1,4 +1,5 @@
-import { Box, Grid } from "@mui/material";
+import Box from "@mui/material/Box";
+import Grid from "@mui/material/Grid";
 import ItemData from '../Data/Destinationshomelist';
 import DestinationCard from './DestinationCards';
 
@@ -8,13 +9,14 @@ const Destinationshome = () => {
       <Grid container spacing={2} sx={{
         justifyContent: 'center',
         display: 'flex',
+        flexWrap: 'wrap',
         flexDirection: 'row',
         alignItems: 'center',
         borderRadius: '10px',
         padding: 2
       }}>
         {ItemData.map((item, index) => (
-          <Grid item key={index} xs={12} sm={6} md={4} lg={3}>
+          <Grid key={index} size={{xs: 12, sm: 6  , md: 4}}>
             <DestinationCard
               img={item.img}
               title={item.title}

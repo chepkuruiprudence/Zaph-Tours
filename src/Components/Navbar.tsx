@@ -10,7 +10,8 @@ import NatureIcon from "@mui/icons-material/Nature";
 import MenuIcon from '@mui/icons-material/Menu';
 import { Link } from "react-router-dom";
 
-const Navbar = () => {const pages = ["Home", "Destinations", "Trip Types", "Contact Us"];
+const Navbar = () => {
+  // const pages = ["Home", "Destinations", "Trip Types", "Contact Us"];
   return (
     <AppBar
       position="static"

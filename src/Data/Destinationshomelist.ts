@@ -5,7 +5,15 @@ import TsavoNationalPark from "../assets/images/Tsavo National Park.jpg";
 import LakeNakuru from "../assets/images/Lake Nakuru.jpg";
 import MtKilimanjaro from "../assets/images/Mt. Kilimanjaro.jpg";
 
-const ItemData = [
+export interface DestinationItem {
+  img: string;
+  title: string;
+  description: string;
+  pricepergroup: string;
+  priceperindividual: string;
+}
+
+const ItemData: DestinationItem[] = [
  {
    img: CoastalKenya,
    title: 'Coastal Kenya',
